@@ -1,0 +1,44 @@
+#mute{
+  width: 50px ;
+  height: 50px;
+  margin-top: 10%;
+}
+body {
+  background-image: url('../img/background.jpg');
+  color: white;
+  font-family: 'Wendy One', sans-serif;
+
+}
+
+
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: #236dc5;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  box-shadow: 0px 2px 4px 0px;
+  border-radius: 4px;
+}
+
